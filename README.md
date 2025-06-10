@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open-source data science and LLM projects  
 - 🤔 I’m looking for help with building scalable AI pipelines in production  
 - 💬 Ask me about React, NLP, PyTorch, or anything AI-related  
-- 📫 How to reach me: kp1032@tamu.edu or [LinkedIn](https://www.linkedin.com/in/khushipatel10/)  
+- 📫 How to reach me: khushi.patel.work2025@gmail.com or [LinkedIn](https://www.linkedin.com/in/khushipatel10/)  
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I once built a virtual mouse using only computer vision and hand gestures 🖐️
 
