@@ -40,7 +40,7 @@ Tools:      PowerBI, Tableau, Git, MariaDB
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdpNnc1aGYxZnVzYzVjMXMzbm52dXoyZXd6dnd4bzY5ZjRkbTVuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mc1yxvp8fIGuYXHJI0/giphy.gif" width="30"> <strong>GitHub Stats</strong>  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdpNnc1aGYxZnVzYzVjMXMzbm52dXoyZXd6dnd4bzY5ZjRkbTVuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qcsGTXHP8JkxaAa0cE/giphy.gif" width="30"> <strong>GitHub Stats</strong>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushipatel-10&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushipatel-10&layout=compact&theme=radical" height="150"/>
