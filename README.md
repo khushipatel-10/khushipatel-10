@@ -55,10 +55,16 @@ Tools:      PowerBI, Tableau, Git, MariaDB
 
 ---
 
+### 🐍 Watch my contributions get eaten by a snake!
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/khushipatel-10/khushipatel-10/output/github-contribution-grid-snake.svg)
+
+---
+
 <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="30"> <strong>Let’s Connect!</strong>  
 - 💼 <a href="https://www.linkedin.com/in/khushipatel10/">LinkedIn</a>  
 - 🌐 <a href="https://github.com/khushipatel-10">GitHub</a>  
-- 📧 kp1032@tamu.edu  
+- 📧 khushi.patel.work2025@gmail.com 
 
 ---
 
