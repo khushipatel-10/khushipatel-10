@@ -40,7 +40,7 @@ Tools:      PowerBI, Tableau, Git, MariaDB
 
 ---
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> <strong>GitHub Stats</strong>  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdpNnc1aGYxZnVzYzVjMXMzbm52dXoyZXd6dnd4bzY5ZjRkbTVuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mc1yxvp8fIGuYXHJI0/giphy.gif" width="30"> <strong>GitHub Stats</strong>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushipatel-10&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushipatel-10&layout=compact&theme=radical" height="150"/>
@@ -59,7 +59,8 @@ Tools:      PowerBI, Tableau, Git, MariaDB
 
 ---
 
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="30"> <strong>Let’s Connect!</strong>  
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4d3FkbGE1emdhNDNjczk0d2F3NXQxYTU1dDlybmZ0a3FzeGY4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mb5h1UQlrtoebK0/giphy.gif" width="30"> <strong>Let’s Connect!</strong>  
 - 💼 <a href="https://www.linkedin.com/in/khushipatel10/">LinkedIn</a>  
 - 🌐 <a href="https://github.com/khushipatel-10">GitHub</a>  
 - 📧 khushi.patel.work2025@gmail.com 
