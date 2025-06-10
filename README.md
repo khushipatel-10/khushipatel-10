@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khushi Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p align="center">
-  <em>MS in Computer Science @ Texas A&M • Full-Stack Developer • AI Enthusiast</em>
+  <em>Masters in Computer Science @ Texas A&M • Full-Stack Developer • AI Enthusiast</em>
 </p>
 
 ---
