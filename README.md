@@ -1,20 +1,18 @@
 <h1 align="center">Hi, I'm Khushi Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p align="center">
-  <em>Masters in Computer Science @ Texas A&M • Full-Stack Developer • AI Enthusiast</em>
+  <em>Masters in Computer Science @ Texas A&M • Full-Stack Developer • AI/ML Enthusiast</em>
 </p>
 
 ---
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> <strong>About Me</strong>  
-- 🔭 I’m currently working on full-stack educational websites and deep learning-based insider trading detection  
-- 🌱 I’m currently learning LangChain, Transformer architectures, and Generative AI techniques  
-- 👯 I’m looking to collaborate on open-source data science and LLM projects  
+- 🔭 I’m currently working on full-stack websites with an interactive front-end 
+- 🌱 I’m curious to learn LangChain, Transformer architectures, and Generative AI techniques  
+- 👯 I’m looking to collaborate on open-source development projects  
 - 🤔 I’m looking for help with building scalable AI pipelines in production  
-- 💬 Ask me about React, NLP, PyTorch, or anything AI-related  
 - 📫 How to reach me: khushi.patel.work2025@gmail.com or [LinkedIn](https://www.linkedin.com/in/khushipatel10/)  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I once built a virtual mouse using only computer vision and hand gestures 🖐️
 
 ---
 
