@@ -11,7 +11,7 @@
 - 🌱 I’m curious to learn LangChain, Transformer architectures, and Generative AI techniques  
 - 👯 I’m looking to collaborate on open-source development projects  
 - 🤔 I’m looking for help with building scalable AI pipelines in production  
-- 📫 How to reach me: khushi.patel.work2025@gmail.com or [LinkedIn](https://www.linkedin.com/in/khushipatel10/)  
+- 📫 How to reach me: kp1032@tamu.edu or [LinkedIn](https://www.linkedin.com/in/khushipatel10/)  
 - 😄 Pronouns: She/Her  
 
 ---
