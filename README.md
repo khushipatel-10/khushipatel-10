@@ -61,7 +61,7 @@ Tools:      PowerBI, Tableau, Git, MariaDB
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4d3FkbGE1emdhNDNjczk0d2F3NXQxYTU1dDlybmZ0a3FzeGY4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mb5h1UQlrtoebK0/giphy.gif" width="30"> <strong>Let’s Connect!</strong>  
-- 📄 <a href="[https://drive.google.com/file/d/1qbY6kkiGUDCrBR8mT0WqNAFg-l_8IDpg/view?usp=sharing](https://drive.google.com/file/d/1Vxv64ZCuco8sENnSlm3WGNTcZNjtxsBb/view?usp=drive_link)">Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1Vxv64ZCuco8sENnSlm3WGNTcZNjtxsBb/view?usp=drive_link">Resume</a>
 - 💼 <a href="https://www.linkedin.com/in/khushipatel10/">LinkedIn</a>  
 - 🌐 <a href="https://github.com/khushipatel-10">GitHub</a>  
 - 📧 kp1032@tamu.edu
