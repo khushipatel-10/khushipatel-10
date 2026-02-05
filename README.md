@@ -61,6 +61,7 @@ Tools:      PowerBI, Tableau, Git, MariaDB
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4d3FkbGE1emdhNDNjczk0d2F3NXQxYTU1dDlybmZ0a3FzeGY4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mb5h1UQlrtoebK0/giphy.gif" width="30"> <strong>Let’s Connect!</strong>  
+- 👩🏻‍💻 <a href="https://leetcode.com/u/khushipatel-10/">LeetCode</a>
 - 📄 <a href="https://drive.google.com/file/d/19O8fuOf9IjMuIuxF_v9CSGnvXMiT7FfL/view?usp=sharing">Resume</a>
 - 💼 <a href="https://www.linkedin.com/in/khushipatel10/">LinkedIn</a>  
 - 🌐 <a href="https://github.com/khushipatel-10">GitHub</a>  
