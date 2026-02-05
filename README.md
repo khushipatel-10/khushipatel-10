@@ -8,7 +8,8 @@
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> <strong>About Me</strong>  
 - 🔭 I’m currently working on full-stack websites with an interactive front-end 
-- 🌱 I’m curious to learn LangChain, Transformer architectures, and Generative AI techniques  
+- 🌱 I’m curious to learn LangChain, Transformer architectures, and Generative AI techniques
+- 👩🏻‍💻 I'm sharpening my coding skills for problem solving everyday on [LeetCode](https://leetcode.com/u/khushipatel-10/)
 - 👯 I’m looking to collaborate on open-source development projects  
 - 🤔 I’m looking for help with building scalable AI pipelines in production  
 - 📫 How to reach me: kp1032@tamu.edu or [LinkedIn](https://www.linkedin.com/in/khushipatel10/)  
