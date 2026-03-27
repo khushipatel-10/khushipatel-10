@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> <strong>About Me</strong>  
 - 🔭 I’m currently working on full-stack websites with an interactive front-end 
 - 🌱 I’m curious to learn LangChain, Transformer architectures, and Generative AI techniques
-- 👩🏻‍💻 I'm sharpening my coding skills for problem solving everyday on [LeetCode](https://leetcode.com/u/khushipatel-10/)
+- 👩🏻‍💻 I'm sharpening my coding skills for problem solving everyday on LeetCode
 - 👯 I’m looking to collaborate on open-source development projects  
 - 🤔 I’m looking for help with building scalable AI pipelines in production  
 - 📫 How to reach me: kp1032@tamu.edu or [LinkedIn](https://www.linkedin.com/in/khushipatel10/)  
@@ -62,7 +62,7 @@ Tools:      PowerBI, Tableau, Git, MariaDB
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4d3FkbGE1emdhNDNjczk0d2F3NXQxYTU1dDlybmZ0a3FzeGY4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mb5h1UQlrtoebK0/giphy.gif" width="30"> <strong>Let’s Connect!</strong>  
-- 👩🏻‍💻 <a href="https://leetcode.com/u/khushipatel-10/">LeetCode</a>
+
 - 📄 <a href="https://drive.google.com/file/d/1gepI8ap995pHsSm6xBFkHL4Ow3t0xh15/view?usp=drive_link">Resume</a>
 - 💼 <a href="https://www.linkedin.com/in/khushipatel10/">LinkedIn</a>  
 - 🌐 <a href="https://github.com/khushipatel-10">GitHub</a>  
